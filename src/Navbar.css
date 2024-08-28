@@ -1,0 +1,13 @@
+.navbar
+{
+    background-color: #796c6c;
+    color: azure;
+    height: 50px;
+}
+    
+.link{
+  color: rgb(255, 119, 0);
+  font-size: larger;
+  padding: 20px 50px 20px 30px ;
+  padding-top: 50px;
+}
